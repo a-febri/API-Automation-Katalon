@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PUU5-Update user invalid id with character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb3582f4-4491-41b9-9ac1-76a6a3f48378</testCaseGuid>
+</TestCaseEntity>

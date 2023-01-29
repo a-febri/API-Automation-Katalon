@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GLU2-Get list users without query param page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad06dec0-de26-4c6d-a390-1262f791c00e</testCaseGuid>
+</TestCaseEntity>

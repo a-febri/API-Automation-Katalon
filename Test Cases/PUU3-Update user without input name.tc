@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PUU3-Update user without input name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9894acc-e731-4c34-9e6c-59d37bbf5395</testCaseGuid>
+</TestCaseEntity>

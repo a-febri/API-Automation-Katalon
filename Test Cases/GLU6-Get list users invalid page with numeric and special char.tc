@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GLU6-Get list users invalid page with numeric and special char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c7b3bc3-d133-481b-acc3-ea5b72ea9862</testCaseGuid>
+</TestCaseEntity>

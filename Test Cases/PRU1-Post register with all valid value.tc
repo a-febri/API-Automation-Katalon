@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PRU1-Post register with all valid value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02a1f859-5d8f-4730-8bcc-879f14005206</testCaseGuid>
+</TestCaseEntity>

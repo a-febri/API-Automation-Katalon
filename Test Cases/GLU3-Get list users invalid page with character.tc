@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GLU3-Get list users invalid page with character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1ea3647-e220-40a3-acd1-c23cab4be63a</testCaseGuid>
+</TestCaseEntity>

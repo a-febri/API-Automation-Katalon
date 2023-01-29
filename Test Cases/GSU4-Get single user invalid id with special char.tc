@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GSU4-Get single user invalid id with special char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2884294-48c0-4847-8ed2-2f0f1c3f80ef</testCaseGuid>
+</TestCaseEntity>

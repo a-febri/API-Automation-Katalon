@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GSU1-Get single user with all valid value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9b1b8d6-5521-49ce-8cf0-f84b854fcf22</testCaseGuid>
+</TestCaseEntity>

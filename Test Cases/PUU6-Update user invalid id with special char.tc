@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PUU6-Update user invalid id with special char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1830f689-ad21-4ecd-a5d0-c573e37933b7</testCaseGuid>
+</TestCaseEntity>

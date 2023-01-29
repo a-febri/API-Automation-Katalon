@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GLU4-Get list users invalid page with special character</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e753f1f-23da-46c6-8f80-96a043f8b650</testCaseGuid>
+</TestCaseEntity>
