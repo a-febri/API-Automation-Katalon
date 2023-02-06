@@ -11,7 +11,7 @@ Testing on https://reqres.in/. This project contains testing on Get list users, 
 4. Click dropdown test suite and double click on 'Regres' test suite
 5. Click run button or using this key combination on windows
    ```sh
-   CTRL + Shift A
+   CTRL + Shift + A
    ```
   
 ## Report
