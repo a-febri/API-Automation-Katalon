@@ -7,7 +7,7 @@ Testing on https://reqres.in/. This project contains testing on Get list users, 
    git clone https://github.com/a-febri/API-Automation-Katalon.git
    ```
 2. Open Katalon Studio
-3. Click open project and select this project folder
+3. Click open project and select `API-Automation-Katalon` folder
 4. Click dropdown test suite and double click on 'Regres' test suite
 5. Click run button or using this key combination on windows
    ```sh
